@@ -15,9 +15,7 @@
     <title>高一3班</title>
 </head>
 <body>
-    <!-- Header -->
-    <div id="header"></div> <!-- 用公共样式引入 -->
-
+    <!--#include virtual="header.html" -->
     <!-- Filter -->
     <div class="filter">
         <div class="wrapper">
@@ -74,8 +72,6 @@
             </div>
         </div>
     </div>
-
-    <!-- footer -->
-    <div id="footer"></div> <!-- 用公共样式引入 -->
+    <!--#include virtual="footer.html" -->
 </body>
 </html>
