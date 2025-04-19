@@ -1,0 +1,24 @@
+{
+  "tags":{
+    "测试": "cyan"
+  },
+
+  "tags_colors": [
+    "red",
+    "yellow",
+    "green",
+    "blue",
+    "purple",
+    "cyan",
+    "不要更改此处！"
+  ],
+
+  "hub_items": [
+    {
+      "title": "测试",
+      "image": "blank.png",
+      "description": "测试",
+      "tags": ["测试"]
+    }
+  ]
+}
