@@ -10,14 +10,14 @@ function setAge(isAdult) {
         alert_window.innerHTML = '' +
             '<div class="window">\n' +
             '            <div class="layout-container yellow">\n' +
-            '                <span class="window_title">欢迎来到3班！</span>\n' +
-            '                <h2>那也可以进来看看哦</h2>\n' +
+            '                <span class="window_title">你被骗了</span>\n' +
+            '                <h2>来都来了，看看再说</h2>\n' +
             '            </div>\n' +
             '            <div class="layout-container transparent">\n' +
-            '                <p>hiahia，只是一些同学（和老师们）发电的日常而已，3班欢迎你！</p>\n' +
+            '                <p>hiahia，我可没有这种个人信息的好吧，放心大胆地看吧</p>\n' +
             '            </div>\n' +
             '            <div class="layout-container bottom">\n' +
-            '                <button class="pushButton primary" onclick="setAge(true)">让我访问！</button>\n' +
+            '                <button class="pushButton primary" onclick="setAge(true)">进入</button>\n' +
             '            </div>\n' +
             '        </div>'
     }
