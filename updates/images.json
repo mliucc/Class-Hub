@@ -16,7 +16,7 @@
   "hub_items": [
     {
       "title": "测试",
-      "image": "test.png",
+      "image": "blank.png",
       "description": "测试",
       "tags": ["测试"]
     }
