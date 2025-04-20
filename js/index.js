@@ -14,7 +14,7 @@ function setAge(isAdult) {
             '                <h2>来都来了，看看再说</h2>\n' +
             '            </div>\n' +
             '            <div class="layout-container transparent">\n' +
-            '                <p>hiahia，我可没有这种个人信息的好吧，放心大胆地看吧</p>\n' +
+            '                <p>hiahia，我可没有这种收集个人信息的癖好，放心大胆地看吧</p>\n' +
             '            </div>\n' +
             '            <div class="layout-container bottom">\n' +
             '                <button class="pushButton primary" onclick="setAge(true)">进入</button>\n' +
