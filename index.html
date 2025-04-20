@@ -82,6 +82,9 @@
         // 动态加载 header.html 和 footer.html
         fetch('header.html').then(r => r.text()).then(html => document.getElementById('header').innerHTML = html);
         fetch('footer.html').then(r => r.text()).then(html => document.getElementById('footer').innerHTML = html);
+        document.querySelectorAll('img').forEach(img => {
+  img.src = new URL(img.getAttribute('src'), window.location.origin).pathname;
+        });
     </script>
 </body>
 </html>
