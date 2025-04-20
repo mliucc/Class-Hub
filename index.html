@@ -78,10 +78,5 @@
     <!-- footer -->
     <div id="footer"></div> <!-- 用公共样式引入 -->
 
-    <script>
-        // 动态加载 header.html 和 footer.html
-        fetch('header.html').then(r => r.text()).then(html => document.getElementById('header').innerHTML = html);
-        fetch('footer.html').then(r => r.text()).then(html => document.getElementById('footer').innerHTML = html);
-    </script>
 </body>
 </html>
