@@ -1,5 +1,5 @@
 // 动态加载 header
-fetch('../header.html')
+fetch('../Class-Hub/header.html')
     .then((res) => res.text())
     .then((html) => {
         // 插入 header 内容
@@ -33,7 +33,7 @@ fetch('../header.html')
 
 
 // 动态加载 footer
-fetch('../footer.html')
+fetch('../Class-Hub/footer.html')
     .then((res) => res.text())
     .then((html) => {
         document.getElementById('footer').innerHTML = html;
@@ -64,8 +64,8 @@ function tabsMenu() {
 // 设置随机背景
 function setRandomBackground() {
     const randomNum = Math.floor(Math.random() * 7) + 1; // 生成随机数
-    const bgImgPng = `../assets/images/backgrounds/${randomNum}.png`;
-    const bgImgJpg = `../assets/images/backgrounds/${randomNum}.jpg`;
+    const bgImgPng = `../Class-Hub/assets/images/backgrounds/${randomNum}.png`;
+    const bgImgJpg = `../Class-Hub/assets/images/backgrounds/${randomNum}.jpg`;
 
     // 尝试加载 PNG，失败则加载 JPG
     const img = new Image();
