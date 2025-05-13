@@ -1,6 +1,7 @@
 {
   "tags":{
-    "测试": "cyan"
+    "测试": "cyan",
+    "理解": "red"
   },
 
   "tags_colors": [
@@ -19,6 +20,12 @@
       "image": "blank.png",
       "description": "测试",
       "tags": ["测试"]
+    },
+    {
+      "title": "悲伤香蕉1.0",
+      "image": "悲伤香蕉.png",
+      "description": "可怜的单身香蕉”,
+      "tags": ["理解"]
     }
   ]
 }
