@@ -63,7 +63,7 @@ function tabsMenu() {
 
 // 设置随机背景
 function setRandomBackground() {
-    const randomNum = Math.floor(Math.random() * 7) + 1; // 生成随机数
+    const randomNum = Math.floor(Math.random() * 8) + 1; // 生成随机数
     const bgImgPng = `../Class-Hub/assets/images/backgrounds/${randomNum}.png`;
     const bgImgJpg = `../Class-Hub/assets/images/backgrounds/${randomNum}.jpg`;
 

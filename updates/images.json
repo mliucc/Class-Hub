@@ -1,6 +1,9 @@
 {
   "tags":{
-    "测试": "cyan"
+    "测试": "cyan",
+    "粟和祂(?)的信徒们": "red",
+    "FM模式": "green",
+    "发电": "cyan"
   },
 
   "tags_colors": [
@@ -19,6 +22,30 @@
       "image": "blank.png",
       "description": "测试",
       "tags": ["测试"]
+    },
+    {
+      "title": "悲伤香蕉1.0",
+      "image": "悲伤香蕉1.0.png",
+      "description": "可怜的单身香蕉",
+      "tags": ["粟和祂(?)的信徒们"]
+    },
+    {
+      "title": "悲伤香蕉2.0",
+      "image": "悲伤香蕉2.0.png",
+      "description": "张老师珍贵手稿首次公布！",
+      "tags": ["粟和祂(?)的信徒们","发电"]
+    },
+    {
+      "title": "史诗般的行走",
+      "image": "史诗般的行走.jpg",
+      "description": "粟教最新教义，必须理解",
+      "tags": ["粟和祂(?)的信徒们","发电"]
+    },
+    {
+      "title": "秋水仙素的妙用",
+      "image": "秋水仙素的妙用.png",
+      "description": "这是什么？单倍体幼苗？秋一下",
+      "tags": ["FM模式"]
     }
   ]
 }
