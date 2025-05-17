@@ -13,7 +13,7 @@
 ## 授权
 本项目基于[Rin's Hub](https://hub.rinlit.cn)搭建，已得到原作者授权，[点我](https://github.com/RinLit-233-shiroko/Rin-sHub)访问原仓库
 
-![](.//assets//images//Authorization.png)
+![](.//assets//images//authorization.png)
 
 ## 特性
 - 拥有类似于 Fluent Design 的优雅、美观的界面；
