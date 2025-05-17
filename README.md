@@ -1,6 +1,3 @@
-> [!TIP]
-> 本项目基于[Rin's Hub](https://hub.rinlit.cn)搭建，[点我](https://github.com/RinLit-233-shiroko/Rin-sHub)访问原仓库
-
 <div align="center">
 <img src="assets/images/logo.png" alt="图标" width="50%">
 <h1Class Hub</h1>
@@ -13,12 +10,24 @@
 
 <hr>
 
-### 特性
+## 授权
+本项目基于[Rin's Hub](https://hub.rinlit.cn)搭建，已得到原作者授权，[点我](https://github.com/RinLit-233-shiroko/Rin-sHub)访问原仓库
+
+![](.//assets//images//Authorization.png)
+
+## 特性
 - 拥有类似于 Fluent Design 的优雅、美观的界面；
 - 使用瀑布流布局，适合展示大量不规则内容；
 - 独特的“Tag”标签功能，可以快速筛选内容；
 - 内置的Filter(搜索功能)，可以过滤到感兴趣的内容
 - 使用**原生** HTML、CSS 和 JavaScript 编写，没错，原生。
+
+## 功能
+- [x] 图片 + 少量文本描述
+- [ ] 纯文本内容
+- [ ] 长图文混排
+- [ ] 音频 + 少量文本描述
+- [ ] 视频 + 少量文本描述
 
 ## 如何投稿
 如果你想为此投稿，请按照以下步骤：
@@ -65,7 +74,7 @@ Copyright © 2025 RinLit, All rights reserved.
 
 ### 贡献者
 感谢这些为Hub贡献的同学:
-[![Contributors](http://contrib.nn.ci/api?repo=RinLit-233-shiroko/Rin-sHub)](https://github.com/RinLit-233-shiroko/Rin-sHub/graphs/contributors)
+[![Contributors](http://contrib.nn.ci/api?repo=mliucc/Class-Hub)](https://github.com/mliucc/Class-Hub/graphs/contributors)
 
 ### 使用的资源
 
