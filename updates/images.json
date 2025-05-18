@@ -4,7 +4,9 @@
     "粟和她的信徒们": "red",
     "FM模式": "green",
     "发电": "cyan",
-    "x": "purple"
+    "x": "purple",
+    "踏实住了": "blue",
+    "唐": "yellow"
   },
 
   "tags_colors": [
@@ -53,6 +55,12 @@
       "image": "哈基醚.jpg",
       "description": "我寻思着醚键在O的两侧不得是烃基么（老实人）",
       "tags": ["粟和她的信徒们","x"]
+    },
+    {
+      "title": "小糖人（我指的是视频）",
+      "image": "小糖人.jpg",
+      "description": "诶lyj你头顶怎么尖尖的",
+      "tags": ["踏实住了","唐"]
     }
   ]
 }
