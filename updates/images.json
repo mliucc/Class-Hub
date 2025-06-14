@@ -28,12 +28,6 @@
 
   "hub_items": [
     {
-      "title": "测试",
-      "image": "blank.png",
-      "description": "测试",
-      "tags": ["测试"]
-    },
-    {
       "title": "悲伤香蕉1.0",
       "image": "悲伤香蕉1.0.png",
       "description": "可怜的单身香蕉",
@@ -86,6 +80,18 @@
       "image": "何老师の注视.jpg",
       "description": "总感觉这张图上的何老师“疏影横斜发间”",
       "tags": [ "A→I↘↗" ]
+    },
+    {
+      "title": "猜成语真嚎丸.jpg",
+      "image": "猜成语真嚎丸.jpg",
+      "description": "什么天崩局😂......竟然猜出来了?!",
+      "tags": [ "粟教官方运动wordle", "粟和她的信徒们" ]
+    },
+    {
+      "title": "不传图片你是这个👍",
+      "image": "不传图片你是这个.jpg",
+      "description": "这就是不符合规范的贡献的下场",
+      "tags": [ "唐","浮躁"]
     }
   ]
 }
