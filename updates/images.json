@@ -13,7 +13,8 @@
     "构史": "cyan",
     "悄悄的努力": "blue",
     "粟教官方运动wordle": "red",
-    "A→I↘↗": "purple"
+    "A→I↘↗": "purple",
+    "MyGO": "yellow"
   },
 
   "tags_colors": [
@@ -92,6 +93,12 @@
       "image": "不传图片你是这个.png",
       "description": "这就是不符合规范的贡献的下场",
       "tags": [ "唐","浮躁"]
+    },
+    {
+      "title": "大宋少女乐队",
+      "image": "It's My宋！！.jpg",
+      "description": "还在go还在go",
+      "tags": [ "MyGO","构史"]
     }
   ]
 }
